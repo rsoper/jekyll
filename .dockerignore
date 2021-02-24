@@ -1,7 +1,0 @@
-.git
-.gitignore
-README.md
-.jekyll-cache
-_site
-Dockerfile
-.dockerignore
