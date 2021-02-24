@@ -39,4 +39,4 @@ docker-compose up -d
 ```
 
 # Credit
-This implimentation was largely inspired by [Bret Fisher](https://github.com/BretFisher/jekyll-serve). 
+This implementation was largely inspired by [Bret Fisher](https://github.com/BretFisher/jekyll-serve). 
